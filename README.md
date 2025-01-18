@@ -11,9 +11,6 @@
     </a>
   </p>
 
-  <p class="profile-views">
-    <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" height="25px">
-  </p>
 
 <div class="about-me">
   <h2>Sobre Mí</h2>
