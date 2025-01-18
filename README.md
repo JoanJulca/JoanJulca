@@ -15,18 +15,18 @@
     <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" height="25px">
   </p>
 
-  <div class="about-me">
-    <h2>About Me</h2>
-    <ul>
-      <li>🎓 Junior at <a href="http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/">Faculty of Computers & Informatics</a> - <a href="http://suez.edu.eg/ar/">Suez Canal University</a>.</li>
-      <li>🏆 2x ACPC Finalist.</li>
-      <li>💡 Passionate about solving problems with software solutions.</li>
-      <li>💻 Experienced in competitive programming platforms like Codeforces, Codechef, and Atcoder.</li>
-      <li>📚 Currently learning Computer Science and Software Engineering.</li>
-      <li>🔍 Open to new job opportunities – Check <a href="http://lnkiy.in/Ahmed_Hossam_Resume">My Resume</a>.</li>
-      <li>🌐 Visit my personal website: <a href="https://cutt.ly/Ahmed_Hossam_Website">Ahmed Hossam Website</a>.</li>
-    </ul>
-  </div>
+<div class="about-me">
+  <h2>Sobre Mí</h2>
+  <ul>
+    <li>🎓 Soy Ingeniero de Sistemas con una sólida formación en desarrollo de software y tecnologías de la información.</li>
+    <li>💡 Apasionado por resolver problemas complejos mediante soluciones innovadoras basadas en software.</li>
+    <li>🛠️ Experiencia trabajando con diversas tecnologías modernas como Angular, React, Firebase y más.</li>
+    <li>📚 Continuamente aprendiendo y mejorando mis habilidades en ciencias de la computación y desarrollo de software.</li>
+    <li>🌟 Cuento con experiencia en programación competitiva y plataformas como Codeforces, Codechef y Atcoder.</li>
+    <li>🔍 Abierto a nuevas oportunidades laborales que me permitan crecer profesionalmente y aportar valor a equipos de desarrollo.</li>
+    <li>🌐 Visita mi portafolio personal: <a href="https://tu-website-aqui.com">Mi Portafolio</a>.</li>
+  </ul>
+</div>
 
  <div class="skills">
   <h2>🛠️ My Skills</h2>
