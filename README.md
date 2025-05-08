@@ -46,12 +46,12 @@
   <div class="connect">
     <h2>Connect with Me</h2>
     <p>
-      <a href="mailto:ahmed.7oskaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"></a>  
-      <a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>  
-      <a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>  
-      <a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-      <a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"></a>  
-      <a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"></a>  
+      <a href="LINK AQUI "><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"></a>  
+      <a href="LINK AQUI"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>  
+      <a href="LINK AQUI"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>  
+      <a href="LINK AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+      <a href="LINK AQUI"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"></a>  
+      <a href="LINK AQUI"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"></a>  
     </p>
   </div>
 </body>
