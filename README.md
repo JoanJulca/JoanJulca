@@ -47,9 +47,9 @@
     <h2>Connect with Me</h2>
     <p>
       <a href="LINK AQUI "><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"></a>  
-      <a href="perfil-joanjr.netlify.app"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>  
+      <a href="https://perfil-joanjr.netlify.app/"><img src="https://img.shields.io/badge/GitHub-181717.svg style=plastic&logo=github&logoColor=white" alt="GitHub"></a>  
     </a>  
-      <a href="LINK AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   
+    
     </p>
   </div>
 </body>
