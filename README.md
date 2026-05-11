@@ -12,16 +12,37 @@
   </p>
 
 
-<div class="about-me">
-  <h2>Sobre Mí</h2>
-  <ul>
-    <li>🎓 Soy Ingeniero de Sistemas con una sólida formación en desarrollo de software y tecnologías de la información.</li>
-    <li>💡 Apasionado por resolver problemas complejos mediante soluciones innovadoras basadas en software.</li>
-    <li>🛠️ Experiencia trabajando con diversas tecnologías modernas como Angular, React, Firebase y más.</li>
-    <li>📚 Continuamente aprendiendo y mejorando mis habilidades en ciencias de la computación y desarrollo de software.</li>
-    <li>🌟 Cuento con experiencia en programación competitiva y plataformas como Codeforces, Codechef y Atcoder.</li>
-    <li>🔍 Abierto a nuevas oportunidades laborales que me permitan crecer profesionalmente y aportar valor a equipos de desarrollo.</li>
-    <li>🌐 Visita mi portafolio personal: <a href="https://tu-website-aqui.com">Mi Portafolio</a>.</li>
+<div class="about-me" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; padding: 2rem; color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; box-shadow: 0 10px 30px rgba(0,0,0,0.3); max-width: 800px; margin: 0 auto;">
+  <h2 style="border-left: 4px solid #00d2ff; padding-left: 1rem; font-size: 2rem; margin-bottom: 1.5rem;">✨ Sobre Mí</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li style="margin-bottom: 1rem; display: flex; align-items: flex-start; gap: 0.8rem;">
+      <span style="font-size: 1.5rem;">🎓</span>
+      <span style="line-height: 1.5;">Soy Ingeniero de Sistemas con una sólida formación en desarrollo de software y tecnologías de la información.</span>
+    </li>
+    <li style="margin-bottom: 1rem; display: flex; align-items: flex-start; gap: 0.8rem;">
+      <span style="font-size: 1.5rem;">💡</span>
+      <span style="line-height: 1.5;">Apasionado por resolver problemas complejos mediante soluciones innovadoras basadas en software.</span>
+    </li>
+    <li style="margin-bottom: 1rem; display: flex; align-items: flex-start; gap: 0.8rem;">
+      <span style="font-size: 1.5rem;">🛠️</span>
+      <span style="line-height: 1.5;">Experiencia trabajando con diversas tecnologías modernas como Angular, React, Firebase y más.</span>
+    </li>
+    <li style="margin-bottom: 1rem; display: flex; align-items: flex-start; gap: 0.8rem;">
+      <span style="font-size: 1.5rem;">📚</span>
+      <span style="line-height: 1.5;">Continuamente aprendiendo y mejorando mis habilidades en ciencias de la computación y desarrollo de software.</span>
+    </li>
+    <li style="margin-bottom: 1rem; display: flex; align-items: flex-start; gap: 0.8rem;">
+      <span style="font-size: 1.5rem;">🌟</span>
+      <span style="line-height: 1.5;">Cuento con experiencia en programación competitiva y plataformas como Codeforces, Codechef y Atcoder.</span>
+    </li>
+    <li style="margin-bottom: 1rem; display: flex; align-items: flex-start; gap: 0.8rem;">
+      <span style="font-size: 1.5rem;">🔍</span>
+      <span style="line-height: 1.5;">Abierto a nuevas oportunidades laborales que me permitan crecer profesionalmente y aportar valor a equipos de desarrollo.</span>
+    </li>
+    <li style="margin-bottom: 1rem; display: flex; align-items: flex-start; gap: 0.8rem;">
+      <span style="font-size: 1.5rem;">🌐</span>
+      <span style="line-height: 1.5;">Visita mi portafolio personal: <a href="https://tu-website-aqui.com" style="color: #00d2ff; text-decoration: none; font-weight: bold; border-bottom: 1px dashed #00d2ff;">Mi Portafolio</a>.</span>
+    </li>
   </ul>
 </div>
 
@@ -45,12 +66,7 @@
 
   <div class="connect">
     <h2>Connect with Me</h2>
-    <p>
-      <a href="LINK AQUI "><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"></a>  
-      <a href="https://perfil-joanjr.netlify.app/"><img src="https://img.shields.io/badge/GitHub-181717.svg style=plastic&logo=github&logoColor=white" alt="GitHub"></a>  
-    </a>  
-    
-    </p>
+    <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>
   </div>
 </body>
 </html>
