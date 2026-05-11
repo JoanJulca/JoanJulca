@@ -48,10 +48,8 @@
     <p>
       <a href="LINK AQUI "><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"></a>  
       <a href="LINK AQUI"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>  
-      <a href="LINK AQUI"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>  
-      <a href="LINK AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-      <a href="LINK AQUI"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"></a>  
-      <a href="LINK AQUI"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"></a>  
+    </a>  
+      <a href="LINK AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   
     </p>
   </div>
 </body>
